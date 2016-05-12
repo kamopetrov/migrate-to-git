@@ -16,4 +16,4 @@ eye-catching graphic.
 Finally, consider defining some sprints and work items in Track & Plan to give 
 interested developers a sense of your cadence and upcoming enhancements.
  
-test comit ? 
+[![Deploy to Bluemix](https://bluemix.net/deploy/button.png)](https://bluemix.net/deploy?https://github.com/kamopetrov/migrate-to-git)
